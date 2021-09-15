@@ -1,2 +1,3 @@
 # Ignore WP folter
 wp
+.env

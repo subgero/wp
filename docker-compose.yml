@@ -6,7 +6,7 @@ networks:
 services:
   wp:
     container_name: wp
-    image: wordpress
+    image: wp
     restart: always
     depends_on:
       - mysql
